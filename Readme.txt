@@ -1,1 +1,1 @@
-Hi all
+This is text only file.
